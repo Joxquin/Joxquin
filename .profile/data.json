@@ -1,0 +1,448 @@
+{
+ "key": "db55be1d",
+ "stars": 3,
+ "contributions": 142,
+ "repos": 28,
+ "followers": 4,
+ "languages": [
+  [
+   "Shell",
+   24121
+  ],
+  [
+   "Smali",
+   15111
+  ],
+  [
+   "Kotlin",
+   2859
+  ],
+  [
+   "HTML",
+   39
+  ],
+  [
+   "CSS",
+   25
+  ],
+  [
+   "JavaScript",
+   24
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 3,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 4,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 14
+ },
+ "pins": [
+  {
+   "name": "antigravity-android",
+   "url": "https://github.com/Joxquin/antigravity-android",
+   "text": "Google Antigravity Standalone for Android - Autonomous ARM64 Client & Freeform Environment",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "djangoApp11",
+   "url": "https://github.com/Joxquin/djangoApp11",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "NotiVas",
+   "url": "https://github.com/Joxquin/NotiVas",
+   "text": "Android Canvas companion app for tracking tasks, forums, and deadlines with reminders.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "NotiVas-KMP",
+   "url": "https://github.com/Joxquin/NotiVas-KMP",
+   "text": "Student-focused companion app for managing academic forums, deadlines, and notifications, with an AI assistant and tools to track and simulate grades.",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": [
+    "canvas-lms",
+    "kotlin-multiplatform",
+    "material-ui",
+    "miuix"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "android_device_xiaomi_sm6150-common",
+   "url": "https://github.com/Joxquin/android_device_xiaomi_sm6150-common",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "android_device_xiaomi_sweet2",
+   "url": "https://github.com/Joxquin/android_device_xiaomi_sweet2",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "android_kernel_xiaomi_lisa",
+   "url": "https://github.com/Joxquin/android_kernel_xiaomi_lisa",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "antigravity-android",
+   "url": "https://github.com/Joxquin/antigravity-android",
+   "text": "Google Antigravity Standalone for Android - Autonomous ARM64 Client & Freeform Environment",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "CHRISL7_fog",
+   "url": "https://github.com/Joxquin/CHRISL7_fog",
+   "text": "Easy clone",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "device_motorola_river",
+   "url": "https://github.com/Joxquin/device_motorola_river",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "device_motorola_sdm632-common",
+   "url": "https://github.com/Joxquin/device_motorola_sdm632-common",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "device_xiaomi_lisa",
+   "url": "https://github.com/Joxquin/device_xiaomi_lisa",
+   "text": "Device Tree for Xiaomi 11 Lite 5G NE",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "dj-Work10",
+   "url": "https://github.com/Joxquin/dj-Work10",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "djangoApp11",
+   "url": "https://github.com/Joxquin/djangoApp11",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "dots-hyprland",
+   "url": "https://github.com/Joxquin/dots-hyprland",
+   "text": "Usability-first dotfiles",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "dumper-web",
+   "url": "https://github.com/Joxquin/dumper-web",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "end4-pC",
+   "url": "https://github.com/Joxquin/end4-pC",
+   "text": "Custom end4",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "ii-p3drovfx",
+   "url": "https://github.com/Joxquin/ii-p3drovfx",
+   "text": "a material 3 expressive shell for hyprland based on illogical-impulse",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Joxquin",
+   "url": "https://github.com/Joxquin/Joxquin",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Lab-PEM09",
+   "url": "https://github.com/Joxquin/Lab-PEM09",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "local_manifest",
+   "url": "https://github.com/Joxquin/local_manifest",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Lossless-Database",
+   "url": "https://github.com/Joxquin/Lossless-Database",
+   "text": "Curating the world's highest quality music, together.",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "NotiVas",
+   "url": "https://github.com/Joxquin/NotiVas",
+   "text": "Android Canvas companion app for tracking tasks, forums, and deadlines with reminders.",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "NotiVas-KMP",
+   "url": "https://github.com/Joxquin/NotiVas-KMP",
+   "text": "Student-focused companion app for managing academic forums, deadlines, and notifications, with an AI assistant and tools to track and simulate grades.",
+   "fork": false,
+   "stars": 3,
+   "language": "Kotlin",
+   "topics": [
+    "canvas-lms",
+    "kotlin-multiplatform",
+    "material-ui",
+    "miuix"
+   ]
+  },
+  {
+   "name": "official-maintainers",
+   "url": "https://github.com/Joxquin/official-maintainers",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "official_devices",
+   "url": "https://github.com/Joxquin/official_devices",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "PEM-Eva2",
+   "url": "https://github.com/Joxquin/PEM-Eva2",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "PEM-Lab08",
+   "url": "https://github.com/Joxquin/PEM-Lab08",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "PLExtended-A14",
+   "url": "https://github.com/Joxquin/PLExtended-A14",
+   "text": "noobiew",
+   "fork": false,
+   "stars": 0,
+   "language": "Smali",
+   "topics": []
+  },
+  {
+   "name": "releases",
+   "url": "https://github.com/Joxquin/releases",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "scripts",
+   "url": "https://github.com/Joxquin/scripts",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "semaforo-plus",
+   "url": "https://github.com/Joxquin/semaforo-plus",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
