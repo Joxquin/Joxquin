@@ -8,16 +8,17 @@
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
-    "about",
     "stack",
     "projects",
     "stats",
     "streak",
-    "wave",
+    "wave"
+  ],
+  "hidden": [
+    "socials",
+    "about",
     "buttons"
   ],
-  "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Joaquín Mateo",
@@ -37,20 +38,7 @@
   },
   "about": {
     "title": "About me",
-    "items": [
-      {
-        "icon": "person",
-        "label": "Mobile & software developer"
-      },
-      {
-        "icon": "brand:android",
-        "label": "Android & Compose / KMP enthusiast"
-      },
-      {
-        "icon": "palette",
-        "label": "Into Material Design & expressive UI"
-      }
-    ]
+    "items": []
   },
   "stack": {
     "title": "Tech stack",
@@ -150,24 +138,12 @@
     "days": "days"
   },
   "socials": {
-    "items": [
-      {
-        "icon": "brand:github",
-        "url": "https://github.com/Joxquin"
-      }
-    ],
+    "items": [],
     "variant": "chip",
     "fill": "tonal",
-    "card": true
+    "card": false
   },
   "buttons": {
-    "items": [
-      {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "https://github.com/Joxquin?tab=repositories",
-        "style": "filled"
-      }
-    ]
+    "items": []
   }
 }
