@@ -1,7 +1,7 @@
 {
- "key": "2e6fa0f",
+ "key": "dc5e76c8",
  "stars": 3,
- "contributions": 572,
+ "contributions": 574,
  "repos": 28,
  "followers": 4,
  "languages": [
@@ -26,12 +26,12 @@
    506928
   ],
   [
-   "HTML",
-   97282
+   "JavaScript",
+   424754
   ],
   [
-   "JavaScript",
-   68389
+   "HTML",
+   97282
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 6,
     "today": true
    },
@@ -144,8 +144,8 @@
   ]
  ],
  "streak": {
-  "current": 12,
-  "longest": 12
+  "current": 13,
+  "longest": 13
  },
  "pins": [
   {
@@ -346,7 +346,7 @@
    "text": "",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "JavaScript",
    "topics": []
   },
   {
