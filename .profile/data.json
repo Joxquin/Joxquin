@@ -1,7 +1,7 @@
 {
- "key": "7b9eb5a6",
+ "key": "1043ba4a",
  "stars": 3,
- "contributions": 600,
+ "contributions": 614,
  "repos": 29,
  "followers": 5,
  "languages": [
@@ -19,7 +19,7 @@
   ],
   [
    "Kotlin",
-   3900197
+   3925968
   ],
   [
    "C",
@@ -116,11 +116,15 @@
     "today": false
    },
    {
-    "c": 8,
+    "c": 22,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
