@@ -1,8 +1,8 @@
 {
- "key": "cf5acce8",
+ "key": "d471046e",
  "stars": 3,
- "contributions": 696,
- "repos": 30,
+ "contributions": 698,
+ "repos": 31,
  "followers": 4,
  "languages": [
   [
@@ -19,7 +19,7 @@
   ],
   [
    "Kotlin",
-   4203732
+   4244779
   ],
   [
    "C",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 18,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 21
  },
  "pins": [
@@ -187,6 +187,15 @@
     "material-ui",
     "miuix"
    ]
+  },
+  {
+   "name": "notivas-plugin-tecsup",
+   "url": "https://github.com/Joxquin/notivas-plugin-tecsup",
+   "text": "Tecsup institutional integration plugin for NotiVas-KMP (Grades, Schedule, Attendance via u-planner API)",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
   },
   {
    "name": "djangoApp14-ecommerce-muebleria",
