@@ -1,7 +1,7 @@
 {
- "key": "1d7256ed",
+ "key": "a5a29155",
  "stars": 3,
- "contributions": 720,
+ "contributions": 722,
  "repos": 31,
  "followers": 4,
  "languages": [
@@ -19,7 +19,7 @@
   ],
   [
    "Kotlin",
-   4261854
+   4270489
   ],
   [
    "C",
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 7,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
