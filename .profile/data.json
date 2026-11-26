@@ -1,8 +1,8 @@
 {
- "key": "2146c0b8",
+ "key": "fdc039e5",
  "stars": 3,
- "contributions": 834,
- "repos": 32,
+ "contributions": 854,
+ "repos": 33,
  "followers": 4,
  "languages": [
   [
@@ -11,27 +11,27 @@
   ],
   [
    "Java",
-   18971605
+   19071381
   ],
   [
    "C++",
-   4662943
+   4754878
   ],
   [
    "Kotlin",
-   4545899
+   4624066
   ],
   [
    "C",
-   665770
+   824612
   ],
   [
    "JavaScript",
-   561252
+   717966
   ],
   [
    "HTML",
-   153229
+   153907
   ]
  ],
  "days": [
@@ -126,12 +126,12 @@
     "today": false
    },
    {
-    "c": 11,
+    "c": 14,
     "day": 25,
     "today": false
    },
    {
-    "c": 0,
+    "c": 17,
     "day": 26,
     "today": true
    },
@@ -140,7 +140,7 @@
   ]
  ],
  "streak": {
-  "current": 10,
+  "current": 11,
   "longest": 21
  },
  "pins": [
@@ -191,6 +191,15 @@
     "material-ui",
     "miuix"
    ]
+  },
+  {
+   "name": "SpringK-SemaforoPlus",
+   "url": "https://github.com/Joxquin/SpringK-SemaforoPlus",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
   },
   {
    "name": "semaforo-plus-iot",
