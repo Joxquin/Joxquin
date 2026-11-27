@@ -8,10 +8,6 @@
 
 <a href="https://github.com/Joxquin/NotiVas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-notivas-dark.svg"><img src="assets/project-notivas-light.svg" width="100%" alt="NotiVas"></picture></a>
 
-<a href="https://github.com/Joxquin/antigravity-android"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-antigravity-android-dark.svg"><img src="assets/project-antigravity-android-light.svg" width="100%" alt="antigravity-android"></picture></a>
-
-<a href="https://github.com/Joxquin/djangoApp11"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-djangoapp11-dark.svg"><img src="assets/project-djangoapp11-light.svg" width="100%" alt="djangoApp11"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>

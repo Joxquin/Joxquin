@@ -1,8 +1,8 @@
 {
- "key": "27d91989",
+ "key": "3178487e",
  "stars": 3,
- "contributions": 864,
- "repos": 33,
+ "contributions": 786,
+ "repos": 24,
  "followers": 4,
  "languages": [
   [
@@ -15,23 +15,23 @@
   ],
   [
    "C++",
-   4754861
+   4668985
   ],
   [
    "Kotlin",
-   4655162
+   4500117
   ],
   [
    "C",
-   824612
+   665770
   ],
   [
    "JavaScript",
-   720904
+   560472
   ],
   [
    "HTML",
-   153907
+   57420
   ]
  ],
  "days": [
@@ -79,7 +79,7 @@
     "today": false
    },
    {
-    "c": 15,
+    "c": 4,
     "day": 16,
     "today": false
    },
@@ -94,17 +94,17 @@
     "today": false
    },
    {
-    "c": 37,
+    "c": 7,
     "day": 19,
     "today": false
    },
    {
-    "c": 20,
+    "c": 13,
     "day": 20,
     "today": false
    },
    {
-    "c": 5,
+    "c": 0,
     "day": 21,
     "today": false
    }
@@ -116,17 +116,17 @@
     "today": false
    },
    {
-    "c": 14,
+    "c": 13,
     "day": 23,
     "today": false
    },
    {
-    "c": 19,
+    "c": 13,
     "day": 24,
     "today": false
    },
    {
-    "c": 14,
+    "c": 10,
     "day": 25,
     "today": false
    },
@@ -144,7 +144,7 @@
   ]
  ],
  "streak": {
-  "current": 12,
+  "current": 6,
   "longest": 21
  },
  "pins": [
@@ -206,30 +206,12 @@
    "topics": []
   },
   {
-   "name": "semaforo-plus-iot",
-   "url": "https://github.com/Joxquin/semaforo-plus-iot",
-   "text": "Semáforo+ · Sistema Inteligente de Control Semafórico con Nodos Reales ESP32 y Visión Artificial On-Edge (TECSUP - ODS 11)",
-   "fork": false,
-   "stars": 0,
-   "language": "C",
-   "topics": []
-  },
-  {
    "name": "notivas-plugin-tecsup",
    "url": "https://github.com/Joxquin/notivas-plugin-tecsup",
    "text": "Tecsup institutional integration plugin for NotiVas-KMP (Grades, Schedule, Attendance via u-planner API)",
    "fork": false,
    "stars": 0,
    "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "djangoApp14-ecommerce-muebleria",
-   "url": "https://github.com/Joxquin/djangoApp14-ecommerce-muebleria",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
    "topics": []
   },
   {
@@ -242,75 +224,12 @@
    "topics": []
   },
   {
-   "name": "djangoApp11",
-   "url": "https://github.com/Joxquin/djangoApp11",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "antigravity-android",
-   "url": "https://github.com/Joxquin/antigravity-android",
-   "text": "Google Antigravity Standalone for Android - Autonomous ARM64 Client & Freeform Environment",
-   "fork": true,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "dj-Work10",
-   "url": "https://github.com/Joxquin/dj-Work10",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "CSS",
-   "topics": []
-  },
-  {
-   "name": "semaforo-plus",
-   "url": "https://github.com/Joxquin/semaforo-plus",
-   "text": "",
-   "fork": true,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "Lab-PEM09",
-   "url": "https://github.com/Joxquin/Lab-PEM09",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
    "name": "ii-p3drovfx",
    "url": "https://github.com/Joxquin/ii-p3drovfx",
    "text": "a material 3 expressive shell for hyprland based on illogical-impulse",
    "fork": true,
    "stars": 0,
    "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "PEM-Lab08",
-   "url": "https://github.com/Joxquin/PEM-Lab08",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "PEM-Eva2",
-   "url": "https://github.com/Joxquin/PEM-Eva2",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "HTML",
    "topics": []
   },
   {
